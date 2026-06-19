@@ -2,7 +2,7 @@
 ## Total Time Estimate 11 hours
 
 ## Log #1 Toolhead
-Time: 1 hour
+**Time: 1 hour**
 
 ### Designed 3D Printer Head.
 One of the problems I ran into with my old version of my Printer was that the toolhead was very large and it was very fragile. This version should be much stronger and is much smaller than the old version. I was able to compact the fans closer to the center which makes it much smaller. Also I designed a smaller carriage and it has a space to add the BlTouch. The BlTouch will act as a z stop and find the bed mesh so the bed can tilt to counteract it.
@@ -19,7 +19,7 @@ One of the problems I ran into with my old version of my Printer was that the to
 <img width="497" height="676" alt="image" src="https://github.com/user-attachments/assets/a3bcfe35-2eba-44a7-872c-34058ed68b95" />
 
 ## Log #2 Belts
-Time: 2 hours
+**Time: 2 hours**
 
 ### Belt Paths & Bed Movement
 The largest problem with my old 3D Printer was the belts. They were the main limiting factor because they caused the printer to skip overtime. I am very chose to create a cad model of the belt system so that I don't make any mistakes when I eventually design it.
@@ -41,7 +41,7 @@ In this second image you can see one of the designs I was working on before I en
 <img width="395" height="513" alt="image" src="https://github.com/user-attachments/assets/3faa460a-7cdf-485c-a557-1fde83313a92" />
 
 ## Log #3 Gantry
-Time: 2 hours
+**Time: 2 hours**
 
 ### Gantry Carriage & Toolhead Belt connection
 The first design I came up for my gantry carriage was a tall thin design. I thought that the strength of the plastic would be enough to stop the belt and hold the toolhead. However I later decided to change it.
@@ -58,7 +58,7 @@ I did end up changing the gantry carriage to a shorter design with a stacked top
 <img width="747" height="770" alt="image" src="https://github.com/user-attachments/assets/4abfbf13-e4d1-44cf-b5b6-7fef7a653f8e" />
 
 ## Log #4 Z-Axis and fixes
-Time: 3 hours
+**Time: 3 hours**
 
 ## Z-axis system
 I am creating the Z axis system and it is very complicated because I need to ensure that each of the motors can connect to the bed loosely. I decided that I am going to connect them with a 10mm metal bearing that the bed will sit on top of and this will allow the bed to tilt.
@@ -84,7 +84,7 @@ The other improvement I added was adding the toolhead carriage which will connec
 <img width="763" height="774" alt="image" src="https://github.com/user-attachments/assets/9df79372-8266-40c7-9ffa-cba7be0f9f3c" />
 
 ## Log #5 Final touches
-Time: 3 hours
+**Time: 3 hours**
 
 I spent very little time actually working on the printer and instead setting up the github repo along with creating the bom and finding what parts I actually need to buy. Also I am rewriting the log because my original one was very bad. Here is what the printer looks like as of today.
 
