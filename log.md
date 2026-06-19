@@ -11,6 +11,10 @@ One of the problems I ran into with my old version of my Printer was that the to
 
 
 <img width="502" height="466" alt="image" src="https://github.com/user-attachments/assets/d1c38720-c9a6-4e35-adae-184e4b2e94f4" />
+  
+
+
+
 
 <img width="497" height="676" alt="image" src="https://github.com/user-attachments/assets/a3bcfe35-2eba-44a7-872c-34058ed68b95" />
 
