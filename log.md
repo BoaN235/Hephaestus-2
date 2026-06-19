@@ -12,7 +12,7 @@ One of the problems I ran into with my old version of my Printer was that the to
 
 <img width="502" height="466" alt="image" src="https://github.com/user-attachments/assets/d1c38720-c9a6-4e35-adae-184e4b2e94f4" />
 
-*** ADD IMAGE WITH BL TOUCH HERE ***
+<img width="497" height="676" alt="image" src="https://github.com/user-attachments/assets/a3bcfe35-2eba-44a7-872c-34058ed68b95" />
 
 ## Log #2 Belts
 Time: 2 hours
@@ -21,6 +21,7 @@ Time: 2 hours
 The largest problem with my old 3D Printer was the belts. They were the main limiting factor because they caused the printer to skip overtime. I am very chose to create a cad model of the belt system so that I don't make any mistakes when I eventually design it.
 
 <img width="546" height="513" alt="image" src="https://github.com/user-attachments/assets/21862ef9-509e-4c87-baf3-e82d3f10e118" />
+
 After I designed the prototype belt paths I imported those over to the main cad along with mounts for the stepper motors. The prototype path already makes the printer look much better than the previous version.
 
 <img width="624" height="787" alt="image" src="https://github.com/user-attachments/assets/80672dd5-2110-4870-abe6-6ffbc7b76b84" />
