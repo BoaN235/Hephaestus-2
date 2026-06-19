@@ -69,16 +69,19 @@ I fixed some of the small problems on the toolhead. However the main thing I wor
 <img width="861" height="803" alt="image" src="https://github.com/user-attachments/assets/931a34be-3c4d-4b4e-9b56-77d5557bbd83" />
 
 ## Bed improvements
-I designed the bed connections. The Kinematic Z axis will be later on in the future because I need to ensure that the printer works well first.
+I designed the connections of the z-axis to the bed itself. 
 
 <img width="738" height="744" alt="image" src="https://github.com/user-attachments/assets/aad4e1ec-2408-4c91-8992-fd2dc9b782ba" />
+<img width="732" height="429" alt="image" src="https://github.com/user-attachments/assets/aebeb825-1f70-449d-bfeb-f82e0367594c" />
 
-
-Other than improvements in the toolhead the printers design is complete. I hope to get started with the build process mid may.
+The other improvement I added was adding the toolhead carriage which will connect to the belts and linear rods.
 
 <img width="763" height="774" alt="image" src="https://github.com/user-attachments/assets/9df79372-8266-40c7-9ffa-cba7be0f9f3c" />
 
 ## Log #5 Final touches
 Time: 3 hours
 
-I spent very little time actually working on the printer and instead setting up the github repo along with creating the bom and finding what parts I actually need to buy. Also I am rewriting the log because my original one was very bad.
+I spent very little time actually working on the printer and instead setting up the github repo along with creating the bom and finding what parts I actually need to buy. Also I am rewriting the log because my original one was very bad. Here is what the printer looks like as of today.
+
+![alt text](Assets/imgs/printer_img_1.png)
+![alt text](Assets/imgs/printer_img_2.png)
