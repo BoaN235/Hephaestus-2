@@ -1,5 +1,7 @@
 # Hephaestus-2
 
+<img width="630" height="630" alt="full_page3" src="https://github.com/user-attachments/assets/07ad1de6-f62b-4383-b7ee-949004d66d04" />
+
 ![wiring diagram](Assets/imgs/printer_img_1.png)
 ![wiring diagram](Assets/imgs/printer_img_2.png)
 
