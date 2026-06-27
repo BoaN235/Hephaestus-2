@@ -1,6 +1,7 @@
 # Hephaestus-2
 
-[<img width="630" height="630" alt="full_page" src="https://github.com/user-attachments/assets/180d1ec0-f024-49ec-a3eb-9fa3f269f0d5" />](https://github.com/BoaN235/Hephaestus-2/blob/main/magazine_page.svg)
+<img width="630" height="630" alt="magazine_page" src="https://github.com/user-attachments/assets/abc32fbd-b8e5-4be8-9b79-9621a185349c" />
+
 
 
 ![wiring diagram](Assets/imgs/printer_img_1.png)
