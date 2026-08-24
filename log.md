@@ -90,3 +90,13 @@ I spent very little time actually working on the printer and instead setting up 
 
 ![alt text](Assets/imgs/printer_img_1.png)
 ![alt text](Assets/imgs/printer_img_2.png)
+
+# Build Time!!
+
+## Log #1 Rebuilt the frame after OUTPOST!!! Hours: 1
+
+
+## Log #2 fixed Toolhead parts and printed them Hours: 2
+
+
+## Log #3 Put it together with the belts! Hours: 5
